@@ -1,0 +1,110 @@
+[
+  {
+    "id": "msg-init-1",
+    "roomId": "grade-Primer Grado",
+    "senderName": "SISTEMA",
+    "senderRole": "TEACHER",
+    "message": "¡Bienvenidos al chat oficial de Primer Grado! Aquí los alumnos pueden interactuar y hacer consultas a la profesora.",
+    "createdAt": "2026-05-23T19:54:07.585Z"
+  },
+  {
+    "id": "msg-init-2",
+    "roomId": "grade-Segundo Grado",
+    "senderName": "SISTEMA",
+    "senderRole": "TEACHER",
+    "message": "¡Bienvenidos al chat oficial de Segundo Grado! Este espacio es para interactuar sanamente y aclarar dudas con la docente.",
+    "createdAt": "2026-05-23T19:54:07.585Z"
+  },
+  {
+    "id": "msg-init-3",
+    "roomId": "grade-Tercer Grado",
+    "senderName": "SISTEMA",
+    "senderRole": "TEACHER",
+    "message": "¡Bienvenidos al chat oficial de Tercer Grado! Comenta tus inquietudes sobre las tareas escolares aquí.",
+    "createdAt": "2026-05-23T19:54:07.585Z"
+  },
+  {
+    "id": "msg-1779566541234-18890",
+    "roomId": "private-17620262",
+    "senderName": "ANUVIS MEDINA",
+    "senderRole": "STUDENT",
+    "senderCi": "17620262",
+    "message": "Holaa",
+    "createdAt": "2026-05-23T20:02:21.234Z"
+  },
+  {
+    "id": "msg-1779566581273-6000",
+    "roomId": "grade-Quinto Grado",
+    "senderName": "ANUVIS MEDINA",
+    "senderRole": "STUDENT",
+    "senderCi": "17620262",
+    "message": "Holaaa smsmsm",
+    "createdAt": "2026-05-23T20:03:01.273Z"
+  },
+  {
+    "id": "msg-welcome-1779566632705",
+    "roomId": "group-1779566632704",
+    "senderName": "SISTEMA",
+    "senderRole": "TEACHER",
+    "message": "¡Grupo 'Lslslala' creado con éxito! Miembros: 2 alumnos de la sección.",
+    "createdAt": "2026-05-23T20:03:52.705Z"
+  },
+  {
+    "id": "msg-1779566658633-69681",
+    "roomId": "group-1779566632704",
+    "senderName": "Profesora Anuvis Medina 👩‍🏫",
+    "senderRole": "TEACHER",
+    "message": "Ksksls",
+    "createdAt": "2026-05-23T20:04:18.633Z"
+  },
+  {
+    "id": "msg-1779567169509-59078",
+    "roomId": "private-17620262",
+    "senderName": "ANUVIS MEDINA",
+    "senderRole": "STUDENT",
+    "senderCi": "17620262",
+    "message": "Profesor",
+    "createdAt": "2026-05-23T20:12:49.509Z"
+  },
+  {
+    "id": "msg-1779568239606-47963",
+    "roomId": "private-17620262",
+    "senderName": "Profesora Anuvis Medina 👩‍🏫",
+    "senderRole": "TEACHER",
+    "message": "Hola hija a",
+    "createdAt": "2026-05-23T20:30:39.606Z"
+  },
+  {
+    "id": "msg-1779568331352-698",
+    "roomId": "private-17620262",
+    "senderName": "ANUVIS MEDINA",
+    "senderRole": "STUDENT",
+    "senderCi": "17620262",
+    "message": "😜",
+    "createdAt": "2026-05-23T20:32:11.352Z"
+  },
+  {
+    "id": "msg-1779568974844-55373",
+    "roomId": "grade-Quinto Grado",
+    "senderName": "ANUVIS MEDINA",
+    "senderRole": "STUDENT",
+    "senderCi": "17620262",
+    "message": "🌟 Sticker: ¡Buen Trabajo! 🌟",
+    "createdAt": "2026-05-23T20:42:54.844Z",
+    "mediaUrl": "🌟",
+    "mediaType": "sticker",
+    "mediaName": "¡Buen Trabajo! 🌟"
+  },
+  {
+    "id": "msg-1779568985771-15382",
+    "roomId": "grade-Quinto Grado",
+    "senderName": "ANUVIS MEDINA",
+    "senderRole": "STUDENT",
+    "senderCi": "17620262",
+    "message": "👍 Sticker: Sigue así 👍",
+    "createdAt": "2026-05-23T20:43:05.771Z",
+    "mediaUrl": "👍",
+    "mediaType": "sticker",
+    "mediaName": "Sigue así 👍"
+  }
+]
