@@ -3,12 +3,12 @@
   "name": "Portal Educativo Liceo Palmarito",
   "icons": [
     {
-      "src": "src/assets/img/escudo_liceo_palmarito_1779833329289.png",
+      "src": "/assets/escudo_liceo_palmarito_1779833329289.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "src/assets/img/escudo_liceo_palmarito_1779833329289.png",
+      "src": "/assets/escudo_liceo_palmarito_1779833329289.png",
       "sizes": "512x512",
       "type": "image/png"
     }
