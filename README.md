@@ -44,3 +44,5 @@ git clone https://github.com/hunter32378/liceo-palmarito-portal.git
 cd liceo-palmarito-portal
 npm install
 npm run dev
+
+📱 Instalación como App
