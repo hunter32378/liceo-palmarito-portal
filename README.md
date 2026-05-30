@@ -59,3 +59,4 @@ Coordinación: Prof. Anuvis Medina
 Implementación y desarrollo: hunter32378
 
 🛡️ Licencia
+Apache-2.0
