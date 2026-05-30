@@ -1803,8 +1803,34 @@ async function startServer() {
   // API Route: Login with Magic Link
   app.get("/api/auth/google", async (req, res) => {
     try {
+      const teacherEmail = "anuvismedina8@gmail.com";
+
+      // Debug logs to verify runtime environment & auth target
+      const supabaseHost = (() => {
+        try {
+          const u = new URL(supabaseUrl);
+          return u.host;
+        } catch {
+          return supabaseUrl;
+        }
+      })();
+
+      console.log("🔐 /api/auth/google called", {
+        isSupabase,
+        supabaseHost,
+        teacherEmail
+      });
+
+      // En Render esto debe funcionar SIEMPRE con Supabase.
+      // Si no hay configuración, NO hacemos fallback local porque eso termina enviando enlaces a un correo/hoy en otro entorno.
+      if (!isSupabase || !supabase) {
+        return res.status(500).send(
+          "Supabase no está configurado en este entorno. Revisa SUPABASE_URL y SUPABASE_SERVICE_ROLE_KEY (este endpoint requiere Supabase)."
+        );
+      }
+
       const { data, error } = await supabase.auth.signInWithOtp({
-        email: 'anuvismedina8@gmail.com',
+        email: teacherEmail,
         options: {
           shouldCreateUser: true
         }
