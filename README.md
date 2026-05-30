@@ -47,3 +47,13 @@ npm run dev
 
 📱 Instalación como App
 Abre el portal en tu navegador móvil o PC, busca el ícono “Instalar App” o usa el menú de opciones de tu navegador para “Agregar a pantalla de inicio”
+
+
+
+Creado para la comunidad educativa del Liceo Palmarito
+
+
+Coordinación: Prof. Anuvis Medina
+
+
+Implementación y desarrollo: hunter32378
