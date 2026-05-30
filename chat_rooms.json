@@ -1,0 +1,7 @@
+[
+  { "id": "grade-Primer Grado", "type": "GRADE", "name": "Salón de Primer Grado", "section": "Primer Grado", "createdAt": "2026-01-01T00:00:00.000Z" },
+  { "id": "grade-Segundo Grado", "type": "GRADE", "name": "Salón de Segundo Grado", "section": "Segundo Grado", "createdAt": "2026-01-01T00:00:00.000Z" },
+  { "id": "grade-Tercer Grado", "type": "GRADE", "name": "Salón de Tercer Grado", "section": "Tercer Grado", "createdAt": "2026-01-01T00:00:00.000Z" },
+  { "id": "grade-Cuarto Grado", "type": "GRADE", "name": "Salón de Cuarto Grado", "section": "Cuarto Grado", "createdAt": "2026-01-01T00:00:00.000Z" },
+  { "id": "grade-Quinto Grado", "type": "GRADE", "name": "Salón de Quinto Grado", "section": "Quinto Grado", "createdAt": "2026-01-01T00:00:00.000Z" }
+]
